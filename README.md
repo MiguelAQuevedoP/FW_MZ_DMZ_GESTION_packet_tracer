@@ -5,7 +5,6 @@
 
 Los requerimientos son los siguientes:
 REQUERIMIENTOS - FIREWALL ROUTER FISICO: ZONAS 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 ## Cada estudiante debe utilizar DIRECCIONAMIENTO IP distinto.
 
 | ZONA | Direccion IP | Mascara |
